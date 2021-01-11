@@ -17,7 +17,7 @@ The following tasks to complete:
 2. Tableau (Data Visualization)
 3. GitHub (Publishing of Result and Analysis)
 
-## Link to visualization
+## Link to dashboard
 [Tableau Public]( https://public.tableau.com/profile/rita.o.rourke#!/vizhome/NYCCitibikeAnalysis_16098945171140/NYCCitibikeAnalysis)
 
 ### Steps:
